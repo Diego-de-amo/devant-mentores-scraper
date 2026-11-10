@@ -1,0 +1,425 @@
+{
+  "data": "2026-11-09",
+  "nichos": [
+    "Farmácias",
+    "Supermercados",
+    "Tecnologia e SaaS",
+    "Delivery",
+    "Mercado Livre e Shopee",
+    "Importação",
+    "Estratégias digitais",
+    "Autopeças"
+  ],
+  "buscas": 49,
+  "fetches": 40,
+  "anomalias_duckduckgo": 11,
+  "provedores": {
+    "duckduckgo": 37,
+    "bing": 1
+  },
+  "bloqueios": {
+    "duckduckgo": 10
+  },
+  "candidatos": 151,
+  "enriquecimentos": 5,
+  "instagram": {
+    "tentativas": 1,
+    "sucessos": 0,
+    "desligado": true,
+    "motivo": "LoginRequiredException"
+  },
+  "descartes": {
+    "sem_contato": 20,
+    "instituicao": 4,
+    "idioma": 1,
+    "sem_publico": 32,
+    "sem_mentoria": 1,
+    "duplicado": 1
+  },
+  "aprovados": 93,
+  "novos": 47,
+  "csv_dia": "data/mentores_2026-11-09.csv",
+  "retirados_da_amostra": [
+    "Mentores e Mentoras",
+    "Mentoria delivery: entenda como turbinar seu negócio"
+  ],
+  "erros": [],
+  "mentores": [
+    {
+      "nome": "Panorama Farmacêutico",
+      "nicho": "Farmácias",
+      "instagram_handle": "panoramafarmaceutico",
+      "seguidores": "84000",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Premium para Donos de Clínicas",
+      "nicho": "Farmácias",
+      "instagram_handle": "superdoutoresclub",
+      "seguidores": "4035",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Gestor de Farmácia",
+      "nicho": "Farmácias",
+      "instagram_handle": "carlinhosmentordefarmacia",
+      "seguidores": "162",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Alvo Mentoria",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "alvomentoria",
+      "seguidores": "457",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Rota do Dono",
+      "nicho": "Supermercados",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "Belo Horizonte/MG",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Novo Delivery",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Brafarma Consultoria",
+      "nicho": "Farmácias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Arruda Mentoria Varejista",
+      "nicho": "Supermercados",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "Contagem/MG",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Manual de Donos",
+      "nicho": "Farmácias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mestres da Importação",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Agência X3",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Elite Comercial",
+      "nicho": "Autopeças",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Especialista em Tráfego Pago & Mentoria",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Gestão Ágil para Empresários e Empreendedores",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria 50k Com Delivery",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria com Rafael Campos — Importação Formal Direta da China",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria de gestão para supermercados",
+      "nicho": "Supermercados",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria de Importação",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Delivery Avançado",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Individual de Importação",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Inovatta Performance para Supermercados",
+      "nicho": "Supermercados",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Kaik Barreto",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Mercado Livre — Bruno Silvaston",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Mercado Livre: do Zero ao Full em 4 Meses",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Traus for Startups",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mercado Estratégico",
+      "nicho": "Supermercados",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Programa de Mentoria Nemalá — Software + acompanhamento estratégico",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "INGC",
+      "nicho": "Farmácias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "Luz/MG",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Aprenda Importando de Verdade",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Auto Negócio",
+      "nicho": "Autopeças",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Clube DeliveryAds",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Dinossauro do Tráfego",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Ederson Varejo",
+      "nicho": "Supermercados",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Eduardo Neves",
+      "nicho": "Farmácias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Ellen Rosa",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Empreender Tech",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Expert Marketplaces — Agência de Marketplaces",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Farmácia10x",
+      "nicho": "Farmácias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Founders Club",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "George Soares",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Ideal Garage",
+      "nicho": "Autopeças",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "KOTUS",
+      "nicho": "Farmácias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Let´s Delivery",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Luis Bugare",
+      "nicho": "Autopeças",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentor Agência Digital",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria de Tráfego Pago Avançado para Empresários",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria em Marketplace",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    }
+  ]
+}

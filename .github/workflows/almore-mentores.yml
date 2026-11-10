@@ -1,0 +1,67 @@
+name: Almore — mentores do dia
+
+on:
+  schedule:
+    # 10:45 UTC = 07:45 em America/Sao_Paulo (Brasília não usa horário de verão).
+    - cron: "45 10 * * *"
+  workflow_dispatch:
+    inputs:
+      max:
+        description: "Máximo de mentores novos nesta execução"
+        required: false
+        default: "50"
+      nichos:
+        description: "IDs de nichos separados por vírgula. Vazio usa a rotação do dia."
+        required: false
+        default: ""
+
+concurrency:
+  group: almore-mentores
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: python -m pip install --upgrade pip && pip install -r almore/requirements.txt
+
+      - name: Coletar mentores
+        working-directory: almore
+        env:
+          IG_USERNAME: ${{ secrets.IG_USERNAME }}
+          IG_SESSIONFILE: ${{ secrets.IG_SESSIONFILE }}
+          MAX_INPUT: ${{ github.event.inputs.max }}
+          NICHOS_INPUT: ${{ github.event.inputs.nichos }}
+          PYTHONUNBUFFERED: "1"
+        run: |
+          args=()
+          if [ -n "$MAX_INPUT" ]; then
+            args+=(--max "$MAX_INPUT")
+          fi
+          if [ -n "$NICHOS_INPUT" ]; then
+            args+=(--nichos "$NICHOS_INPUT")
+          fi
+          python -m almore_scraper "${args[@]}"
+
+      - name: Publicar CSVs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- almore/data/mentores_*.csv almore/data/mentores_master.csv almore/data/last_run.json
+          if git diff --staged --quiet; then
+            echo "Nada novo para publicar."
+            exit 0
+          fi
+          git commit -m "chore(almore): atualiza mentores $(date -u +%F)"
+          git push
