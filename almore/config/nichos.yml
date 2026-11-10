@@ -1,0 +1,168 @@
+# Lista de nichos da Almore. Para incluir um segmento novo, copie um bloco
+# em `nichos` e ajuste id, nome, termos e, se quiser, consultas_extras.
+# Contabilidade não entra: o coletor recusa nicho com "contab" no id ou no nome.
+
+alvo_por_dia: 50
+nichos_por_rodada: 8
+max_por_nicho: 12
+teto_seguidores: 150000
+preferencia_seguidores: 100000
+max_buscas: 100
+max_paginas_por_consulta: 2
+max_fetches: 40
+max_enriquecimentos: 55
+pausa_busca_min: 2.0
+pausa_busca_max: 4.2
+pausa_fetch_min: 0.6
+pausa_fetch_max: 1.4
+pausa_instagram_min: 8
+pausa_instagram_max: 16
+falhas_instagram_para_desligar: 2
+
+templates:
+  - "mentoria para donos de {termo}"
+  - "mentoria para empresários de {termo}"
+  - "mentor de {termo} para empresários"
+
+ignorar_handles:
+  - neymar
+  - neymarjr
+  - anitta
+  - whinderssonnunes
+  - virginiamedeiros
+  - tatawerneck
+  - maisa
+  - gusttavolima
+  - ludmilla
+  - ivetesangalo
+  - claudialeitte
+
+nichos:
+  - id: autopecas
+    nome: Autopeças
+    termos: ["autopeças", "lojas de autopeças"]
+  - id: ecommerce
+    nome: E-commerce
+    termos: ["e-commerce", "lojas virtuais"]
+  - id: servicos
+    nome: Prestadores de serviço
+    termos: ["empresas de serviço", "prestadores de serviço"]
+  - id: marketing
+    nome: Marketing digital
+    termos: ["agências de marketing", "marketing digital"]
+    consultas_extras:
+      - "mentoria para donos de agência de marketing"
+  - id: varejo
+    nome: Varejo
+    termos: ["lojas de varejo", "varejo"]
+  - id: restaurantes
+    nome: Food service
+    termos: ["restaurantes", "bares e restaurantes"]
+  - id: clinicas
+    nome: Clínicas e saúde
+    termos: ["clínicas médicas", "clínicas"]
+  - id: estetica
+    nome: Estética
+    termos: ["clínicas de estética"]
+  - id: odontologia
+    nome: Odontologia
+    termos: ["clínicas odontológicas", "odontologia"]
+  - id: imobiliario
+    nome: Imobiliário
+    termos: ["imobiliárias", "corretoras de imóveis"]
+  - id: construcao
+    nome: Construção
+    termos: ["construtoras", "empresas de construção"]
+  - id: agro
+    nome: Agro
+    termos: ["agronegócio"]
+    consultas_extras:
+      - "mentoria para produtores rurais"
+      - "mentor do agronegócio para empresários"
+  - id: industria
+    nome: Indústria
+    termos: ["indústrias", "fábricas"]
+  - id: franquias
+    nome: Franquias
+    termos: ["franquias", "franqueados"]
+    consultas_extras:
+      - "mentoria para franqueados"
+  - id: moda
+    nome: Moda
+    termos: ["lojas de roupa", "moda"]
+  - id: beleza
+    nome: Beleza
+    termos: ["salões de beleza", "barbearias"]
+  - id: fitness
+    nome: Academias e fitness
+    termos: ["academias", "boxes de crossfit"]
+  - id: pet
+    nome: Pet
+    termos: ["pet shops", "clínicas veterinárias"]
+  - id: educacao
+    nome: Educação
+    termos: ["escolas particulares", "cursos livres"]
+  - id: infoprodutos
+    nome: Infoprodutores
+    termos: ["infoprodutores"]
+    consultas_extras:
+      - "mentoria para infoprodutores"
+      - "mentor de lançamentos digitais para empresários"
+  - id: vendas
+    nome: Vendas
+    termos: ["times comerciais", "vendas B2B"]
+    consultas_extras:
+      - "mentoria de vendas para empresários"
+      - "mentor de vendas para donos de empresa"
+  - id: gestao
+    nome: Gestão
+    termos: ["pequenas empresas"]
+    consultas_extras:
+      - "mentoria empresarial para donos de PME"
+      - "mentor de gestão para empresários"
+  - id: advocacia
+    nome: Advocacia
+    termos: ["escritórios de advocacia"]
+    consultas_extras:
+      - "mentoria para donos de escritório de advocacia"
+      - "mentor de gestão para advogados sócios"
+  - id: logistica
+    nome: Transportadoras e logística
+    termos: ["transportadoras", "empresas de logística"]
+  - id: oficinas
+    nome: Oficinas mecânicas
+    termos: ["oficinas mecânicas", "centros automotivos"]
+  - id: farmacias
+    nome: Farmácias
+    termos: ["farmácias", "drogarias"]
+  - id: supermercados
+    nome: Supermercados
+    termos: ["supermercados", "mercados de bairro"]
+  - id: saas
+    nome: Tecnologia e SaaS
+    termos: ["empresas de software"]
+    consultas_extras:
+      - "mentoria para founders de SaaS Brasil"
+      - "mentor de startups SaaS para empresários"
+  - id: delivery
+    nome: Delivery
+    termos: ["delivery", "dark kitchens"]
+  - id: marketplaces
+    nome: Mercado Livre e Shopee
+    termos: ["Mercado Livre"]
+    consultas_extras:
+      - "mentoria para vendedores do Mercado Livre"
+      - "mentoria para sellers da Shopee"
+      - "mentor de marketplace para lojistas"
+  - id: importacao
+    nome: Importação
+    termos: ["importação"]
+    consultas_extras:
+      - "mentoria para importadores"
+      - "mentor de importação para empresários"
+  - id: estrategias
+    nome: Estratégias digitais
+    termos: ["tráfego pago"]
+    consultas_extras:
+      - "mentoria de tráfego pago para empresários"
+      - "mentor de estratégias digitais para donos de negócio"
