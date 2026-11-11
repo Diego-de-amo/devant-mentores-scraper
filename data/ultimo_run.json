@@ -1,0 +1,104 @@
+{
+  "data": "2026-11-09",
+  "horario_brasilia": "2026-11-09T21:56:12-03:00",
+  "alvo": 20,
+  "novos": 4,
+  "consultas": [
+    "mentor de contadores instagram",
+    "mentora de contadores instagram",
+    "mentoria para contadores",
+    "mentoria para escritório contábil"
+  ],
+  "busca": {
+    "duckduckgo": {
+      "consultas": 2,
+      "resultados": 0,
+      "erro": "HTTP 202 em html.duckduckgo.com"
+    },
+    "yahoo": {
+      "consultas": 4,
+      "resultados": 14,
+      "erro": "HTTPError: 500 Server Error: INKApi Error for url: https://br.search.yahoo.com/search?p=mentoria+para+escrit%C3%B3rio+cont%C3%A1bil&ei=UTF-8"
+    }
+  },
+  "motores_bloqueados": [
+    "duckduckgo",
+    "yahoo"
+  ],
+  "resultados_brutos": 14,
+  "paginas": {
+    "lidas": 0,
+    "erros": 1,
+    "detalhes": [
+      {
+        "url": "https://imginn.com/p/DexaJUfRXP0/",
+        "erro": "HTTP 403"
+      }
+    ]
+  },
+  "instagram": {
+    "modo": "anonimo",
+    "status": "bloqueado_429",
+    "perfis_enriquecidos": 0,
+    "detalhe": "AbortDownloadException: Query to https://i.instagram.com/api/v1/users/web_profile_info/?username=contadoraldodiasmentor responded with \"429 Too Many Requests\""
+  },
+  "posts_buscados": 3,
+  "descartes": {
+    "fora_do_perfil": 3,
+    "sem_nome": 2,
+    "acima_de_50k": 1,
+    "url_ignorada": 3,
+    "bloqueado": 1
+  },
+  "descartes_exemplos": [
+    {
+      "motivo": "fora_do_perfil",
+      "nome": "Pedro Mendes | Mentor de Negócios (@pedromcontador ...",
+      "url": "https://www.instagram.com/pedromcontador/"
+    },
+    {
+      "motivo": "sem_nome",
+      "nome": "Instagram para Contadores | Método CONTA — DPG Educação",
+      "url": "https://dpgeducacao.com.br/mentoria-de-instagram-para-contadores/"
+    },
+    {
+      "motivo": "acima_de_50k",
+      "nome": "Flávio Borges | Mentor de Contadores (@flavio_contador ...",
+      "url": "https://www.instagram.com/flavio_contador_conceito/"
+    },
+    {
+      "motivo": "fora_do_perfil",
+      "nome": "Conheça aqui os melhores Influenciadores Contábeis do mercado!",
+      "url": "https://makrosystem.com.br/blog/influenciadores-contabeis-10-referencias-no-mercado/"
+    },
+    {
+      "motivo": "sem_nome",
+      "nome": "Mentora de Contadores - Contadores Visionários",
+      "url": "https://contadoresvisionarios.com.br/"
+    },
+    {
+      "motivo": "fora_do_perfil",
+      "nome": "Posts para contadores: 100 ideias e modelos para Instagram",
+      "url": "https://cesardedeus.com.br/posts-para-contadores-100-ideias-incriveis-gratis-2/"
+    },
+    {
+      "motivo": "bloqueado",
+      "nome": "Instagram para contadores - Anderson Hernandes",
+      "url": "https://andersonhernandes.com.br/instagram-para-contadores/"
+    }
+  ],
+  "arquivo_diario": "data/mentores_2026-11-09.csv",
+  "mentores": [
+    "Aldo Dias",
+    "Silvio",
+    "Fernando Coelho",
+    "Fernanda KZ"
+  ],
+  "revisao": "A execução gravou 4 linhas. Fernanda KZ foi retirada do CSV porque a única URL era imginn.com, um espelho de Instagram, sem handle nem site confirmados. Esses hosts passam a ser ignorados.",
+  "novos_no_csv": 3,
+  "mentores_no_csv": [
+    "Aldo Dias",
+    "Silvio",
+    "Fernando Coelho"
+  ]
+}
