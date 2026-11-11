@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-10",
+  "data": "2026-11-11",
   "nichos": [
-    "Supermercados",
     "Tecnologia e SaaS",
     "Delivery",
     "Mercado Livre e Shopee",
@@ -9,36 +8,20 @@
     "Estratégias digitais",
     "Autopeças",
     "E-commerce",
-    "Prestadores de serviço",
-    "Marketing digital",
-    "Varejo",
-    "Food service",
-    "Clínicas e saúde",
-    "Estética",
-    "Odontologia",
-    "Imobiliário",
-    "Construção",
-    "Agro",
-    "Indústria",
-    "Franquias",
-    "Moda",
-    "Beleza",
-    "Academias e fitness",
-    "Pet"
+    "Prestadores de serviço"
   ],
-  "buscas": 74,
-  "fetches": 13,
-  "anomalias_duckduckgo": 51,
+  "buscas": 43,
+  "fetches": 40,
+  "anomalias_duckduckgo": 14,
   "provedores": {
-    "duckduckgo": 3,
-    "bing": 2
+    "duckduckgo": 27
   },
   "bloqueios": {
-    "duckduckgo": 49,
-    "bing_irrelevante": 9
+    "duckduckgo": 12,
+    "bing_irrelevante": 2
   },
-  "candidatos": 17,
-  "enriquecimentos": 2,
+  "candidatos": 128,
+  "enriquecimentos": 5,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -46,58 +29,389 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "duplicado": 7,
-    "sem_contato": 1,
-    "sem_mentoria": 3
+    "duplicado": 26,
+    "sem_contato": 28,
+    "instituicao": 3,
+    "idioma": 1,
+    "sem_publico": 22,
+    "sem_mentoria": 1
   },
-  "aprovados": 6,
-  "novos": 6,
-  "csv_dia": "data/mentores_2026-11-10.csv",
+  "aprovados": 47,
+  "novos": 47,
+  "csv_dia": "data/mentores_2026-11-11.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "DDC — Donos de Construtoras",
-      "nicho": "Supermercados",
+      "nome": "Anjos do Brasil",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "anjosdobrasil",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Corelab Drops",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "corelabbr",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Rafael Pieroni",
+      "nicho": "Tecnologia e SaaS",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Livato Consultoria",
-      "nicho": "Supermercados",
+      "nome": "Mentoria de Criação de SaaS com IA",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "projetogoonline",
+      "seguidores": "",
+      "cidade_uf": "Duque de Caxias/RJ",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria individual para founders e lideranças",
+      "nicho": "Tecnologia e SaaS",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Monica Armani",
-      "nicho": "Supermercados",
+      "nome": "Abstartups",
+      "nicho": "Tecnologia e SaaS",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "rogeriomachadomentor.com.br",
-      "nicho": "Supermercados",
+      "nome": "Mentoria Empresarial para Empresários e Pequenas Empresas",
+      "nicho": "Tecnologia e SaaS",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Start Varejo",
-      "nicho": "Supermercados",
+      "nome": "Mentoria LEVELUP",
+      "nicho": "Tecnologia e SaaS",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentoria E Treinamentos De Gestão Para Varejo E Supermercados",
-      "nicho": "Supermercados",
+      "nome": "Aceleração Delivery — Mentoria para Restaurantes",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Fábio Gonçalves",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "iMentor",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentor Delivery Pro",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentor marketing digital: como alavancar seu negócio online rapidamente",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria de negócios digitais",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria em Marketing Digital — Aligator Agência",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria estratégica digital para donos de PME",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mindseller",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "MND",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Rodrigo Sathler",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "SBDC",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Software de Mentoria",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Stint — Mentoria de Autoridade para Donos de Empresa",
+      "nicho": "Tecnologia e SaaS",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Virgílio Dornelas » Mentor Estrategista de Negócios Digitais",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Consulta Empresarial",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Hugo Lobo",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Amarela — Viva de Delivery",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria EFMT",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Ifood Pro: O Segredo dos Entregadores de Sucesso!",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Individual Tráfego Pago Experience",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Mercado Livre — Seus próximos passos",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Quero Importar",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Sales Mode",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Viva de Mercado Livre",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Brigada Meli",
+      "nicho": "Mercado Livre e Shopee",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Delivery",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Delivery Campeão",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Empresas",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "ILUSÃO!!! NÃO COMPREM ANTES DE olhar esse relato",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Importação",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mateus Rucci",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Portal do Mentorado",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Precificação Lucrativa no Delivery",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Qualidade Importa",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Renato Importador",
+      "nicho": "Importação",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Sistema Delivery",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria de Tráfego Pago",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Tráfego Com Manel",
+      "nicho": "Estratégias digitais",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
