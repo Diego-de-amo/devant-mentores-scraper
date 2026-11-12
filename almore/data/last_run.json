@@ -1,27 +1,27 @@
 {
-  "data": "2026-11-11",
+  "data": "2026-11-12",
   "nichos": [
-    "Tecnologia e SaaS",
     "Delivery",
     "Mercado Livre e Shopee",
     "Importação",
     "Estratégias digitais",
     "Autopeças",
     "E-commerce",
-    "Prestadores de serviço"
+    "Prestadores de serviço",
+    "Marketing digital"
   ],
-  "buscas": 43,
+  "buscas": 40,
   "fetches": 40,
-  "anomalias_duckduckgo": 14,
+  "anomalias_duckduckgo": 2,
   "provedores": {
-    "duckduckgo": 27
+    "duckduckgo": 37
   },
   "bloqueios": {
-    "duckduckgo": 12,
-    "bing_irrelevante": 2
+    "duckduckgo": 1,
+    "bing_irrelevante": 1
   },
-  "candidatos": 128,
-  "enriquecimentos": 5,
+  "candidatos": 150,
+  "enriquecimentos": 2,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -29,84 +29,140 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "duplicado": 26,
-    "sem_contato": 28,
     "instituicao": 3,
+    "duplicado": 47,
+    "sem_contato": 26,
+    "sem_publico": 25,
     "idioma": 1,
-    "sem_publico": 22,
-    "sem_mentoria": 1
+    "sem_mentoria": 2
   },
-  "aprovados": 47,
-  "novos": 47,
-  "csv_dia": "data/mentores_2026-11-11.csv",
+  "aprovados": 46,
+  "novos": 46,
+  "csv_dia": "data/mentores_2026-11-12.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "Anjos do Brasil",
-      "nicho": "Tecnologia e SaaS",
-      "instagram_handle": "anjosdobrasil",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Corelab Drops",
-      "nicho": "Tecnologia e SaaS",
-      "instagram_handle": "corelabbr",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Rafael Pieroni",
-      "nicho": "Tecnologia e SaaS",
+      "nome": "Mentoria de Tráfego Pago para Empresários",
+      "nicho": "Estratégias digitais",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentoria de Criação de SaaS com IA",
-      "nicho": "Tecnologia e SaaS",
-      "instagram_handle": "projetogoonline",
-      "seguidores": "",
-      "cidade_uf": "Duque de Caxias/RJ",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria individual para founders e lideranças",
-      "nicho": "Tecnologia e SaaS",
+      "nome": "Black Sheep",
+      "nicho": "Prestadores de serviço",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Abstartups",
-      "nicho": "Tecnologia e SaaS",
+      "nome": "Jornada E-commerce — Mentoria com Ezequiel Aguiar",
+      "nicho": "E-commerce",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentoria Empresarial para Empresários e Pequenas Empresas",
-      "nicho": "Tecnologia e SaaS",
+      "nome": "Mentoria Comercial para Time de Vendas",
+      "nicho": "Autopeças",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentoria LEVELUP",
-      "nicho": "Tecnologia e SaaS",
+      "nome": "Mentoria E-commerce",
+      "nicho": "E-commerce",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Aceleração Delivery — Mentoria para Restaurantes",
+      "nome": "Mentoria Empresários PME's",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Individual de E-commerce com Amauri Piffer",
+      "nicho": "E-commerce",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria OFE",
+      "nicho": "E-commerce",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Paulo Canarim",
+      "nicho": "E-commerce",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Soluções Empresariais",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Ultralize",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "ABMEN",
+      "nicho": "E-commerce",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Ana Amélia Romanini",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Azz Agência de Marketing Digital",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Engrenatec",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Grupos de Mentoria: O Valor do Networking para Donos de Delivery ...",
       "nicho": "Delivery",
       "instagram_handle": "",
       "seguidores": "",
@@ -114,7 +170,151 @@
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Fábio Gonçalves",
+      "nome": "IAGO",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Interali Marketing — Mentoria para Empresários e Gestão de Redes Sociais",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Izabel Reis",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Jeff Mozalegis",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Máquina de Tráfego e Conversão",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria de E-commerce e Aceleração",
+      "nicho": "E-commerce",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria em Marketing Digital com Marcelo Sales",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria em vendas B2B para empreendedores e donos de empresa",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "MENTORIA GRATUITA: O Sucesso das entregas rápidas com Rafael Abath",
+      "nicho": "Delivery",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mercato Marketing",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Multi BR",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Neofirmi",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "O mais completo pacote de EMPREENDEDORISMO do Brasil!",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Os Bastidores do E-commerce",
+      "nicho": "E-commerce",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Pedro Massi",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Victor Albuquerque",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Vitor Botega",
+      "nicho": "E-commerce",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "André Felipe",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Guilherme Colaço",
       "nicho": "Importação",
       "instagram_handle": "",
       "seguidores": "",
@@ -122,111 +322,7 @@
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "iMentor",
-      "nicho": "Tecnologia e SaaS",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentor Delivery Pro",
-      "nicho": "Delivery",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentor marketing digital: como alavancar seu negócio online rapidamente",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria de negócios digitais",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria em Marketing Digital — Aligator Agência",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria estratégica digital para donos de PME",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mindseller",
-      "nicho": "Mercado Livre e Shopee",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "MND",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Rodrigo Sathler",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "SBDC",
-      "nicho": "Tecnologia e SaaS",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Software de Mentoria",
-      "nicho": "Tecnologia e SaaS",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Stint — Mentoria de Autoridade para Donos de Empresa",
-      "nicho": "Tecnologia e SaaS",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Virgílio Dornelas » Mentor Estrategista de Negócios Digitais",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Consulta Empresarial",
+      "nome": "Mentoria Importador Lucrativo",
       "nicho": "Importação",
       "instagram_handle": "",
       "seguidores": "",
@@ -234,7 +330,55 @@
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Hugo Lobo",
+      "nome": "Rodrigo Bindes",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "Brasília/DF",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Ads Definitivo",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Búri E-commerce",
+      "nicho": "E-commerce",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Curso e Mentoria de Tráfego Pago",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Escola de Autopeças",
+      "nicho": "Autopeças",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Exclusiva e Prática",
+      "nicho": "Estratégias digitais",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "FLUXOGRAMA NA IMPORTAÇÃO",
       "nicho": "Importação",
       "instagram_handle": "",
       "seguidores": "",
@@ -242,176 +386,24 @@
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentoria Amarela — Viva de Delivery",
-      "nicho": "Delivery",
+      "nome": "Mentoria & Consultoria para e-Commerce — Last Rocket",
+      "nicho": "E-commerce",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentoria EFMT",
-      "nicho": "Estratégias digitais",
+      "nome": "Mentoria em Marketing Digital e E-commerce para Empresas",
+      "nicho": "E-commerce",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentoria Ifood Pro: O Segredo dos Entregadores de Sucesso!",
-      "nicho": "Delivery",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Individual Tráfego Pago Experience",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Mercado Livre — Seus próximos passos",
-      "nicho": "Mercado Livre e Shopee",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Quero Importar",
-      "nicho": "Importação",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Sales Mode",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Viva de Mercado Livre",
-      "nicho": "Mercado Livre e Shopee",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Brigada Meli",
-      "nicho": "Mercado Livre e Shopee",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Delivery",
-      "nicho": "Delivery",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Delivery Campeão",
-      "nicho": "Delivery",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Empresas",
-      "nicho": "Delivery",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "ILUSÃO!!! NÃO COMPREM ANTES DE olhar esse relato",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Importação",
-      "nicho": "Importação",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mateus Rucci",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Portal do Mentorado",
-      "nicho": "Delivery",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Precificação Lucrativa no Delivery",
-      "nicho": "Delivery",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Qualidade Importa",
-      "nicho": "Importação",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Renato Importador",
-      "nicho": "Importação",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Sistema Delivery",
-      "nicho": "Delivery",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria de Tráfego Pago",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Tráfego Com Manel",
-      "nicho": "Estratégias digitais",
+      "nome": "Mentoria ou Consultoria de E-commerce?",
+      "nicho": "E-commerce",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
