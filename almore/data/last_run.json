@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-13",
+  "data": "2026-11-14",
   "nichos": [
-    "Mercado Livre e Shopee",
     "Importação",
     "Estratégias digitais",
     "Autopeças",
@@ -16,20 +15,30 @@
     "Imobiliário",
     "Construção",
     "Agro",
-    "Indústria"
+    "Indústria",
+    "Franquias",
+    "Moda",
+    "Beleza",
+    "Academias e fitness",
+    "Pet",
+    "Educação",
+    "Infoprodutores",
+    "Vendas",
+    "Gestão"
   ],
   "buscas": 78,
-  "fetches": 40,
-  "anomalias_duckduckgo": 37,
+  "fetches": 14,
+  "anomalias_duckduckgo": 51,
   "provedores": {
-    "duckduckgo": 37
+    "duckduckgo": 3,
+    "bing": 3
   },
   "bloqueios": {
-    "duckduckgo": 33,
-    "bing_irrelevante": 4
+    "duckduckgo": 49,
+    "bing_irrelevante": 10
   },
-  "candidatos": 158,
-  "enriquecimentos": 8,
+  "candidatos": 14,
+  "enriquecimentos": 4,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -37,413 +46,16 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "duplicado": 27,
-    "sem_contato": 15,
-    "instituicao": 3,
-    "sem_publico": 20,
-    "idioma": 3,
-    "sem_mentoria": 4
+    "duplicado": 13
   },
-  "aprovados": 86,
-  "novos": 50,
-  "csv_dia": "data/mentores_2026-11-13.csv",
+  "aprovados": 1,
+  "novos": 1,
+  "csv_dia": "data/mentores_2026-11-14.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "Mentor Construção",
-      "nicho": "Construção",
-      "instagram_handle": "mentorconstrucao",
-      "seguidores": "3518",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "China Venture",
+      "nome": "ComexFácil",
       "nicho": "Importação",
-      "instagram_handle": "china_venture",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Black NEON — escala para clínicas de saúde estética",
-      "nicho": "Estética",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Seu Drip Store — Aprenda a Importar Roupas Originais",
-      "nicho": "Importação",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "GIS Mentoria — A escola dos donos de imobiliária do Brasil",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Importando com Lu",
-      "nicho": "Importação",
-      "instagram_handle": "importandocomlu",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Instituto Desenvolve Agro",
-      "nicho": "Agro",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Clínica Empresarial",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "Brasília/DF",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "A Jornada Completa do Dentista Empreendedor",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "A Mentoria AgroTalento 2025",
-      "nicho": "Agro",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Adriano Gianini",
-      "nicho": "Estratégias digitais",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Clínica Lucrativa e AutoGerenciável",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Daniela Fidellis",
-      "nicho": "Estética",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "EDIFICAR Mentoria Empresarial Sr. Guimarães",
-      "nicho": "Construção",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Edson Miranda",
-      "nicho": "Construção",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Fature R$50mil+ Todo Mês",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Giuliano Spolavori",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Grics Financial",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Beleza Lucrativa",
-      "nicho": "Estética",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria e Aconselhamento para Produtores Rurais",
-      "nicho": "Agro",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria em Direito do Agronegócio",
-      "nicho": "Agro",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Estratégia Odonto para Dentistas de Excelência",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Estruturação de Empreendimentos",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria R8 — Estruturação Comercial para Imobiliárias",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Stella Romero",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Método J.A.N.G.A.",
-      "nicho": "Food service",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Método KIN",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Método L.U.C.R.E.",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Milplace",
-      "nicho": "Mercado Livre e Shopee",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Raquel Queiroz",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Rise Club",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Rosalvo Barreto",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Senior Consulting",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Alessandro Freitas",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Alessandro Miranda",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Claudino",
-      "nicho": "Imobiliário",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Clínica Ideal",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Consultoria e Mentoria para Clínicas Odontológicas de Sucesso ...",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Deid França Mentoria",
-      "nicho": "Agro",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "DigiOdonto",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Dr. Stênio Ponte",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Ecossistema de Gestão de Clínicas ...",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Eliana Yohann",
-      "nicho": "Estética",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "EmpreendeDOC",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Estética de Valor — Mentoria para Profissionais de Estética",
-      "nicho": "Estética",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Fernando Paes",
-      "nicho": "Construção",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Gustavo Medeiros",
-      "nicho": "Estética",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Lana Gerardi",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Matheus Lessa",
-      "nicho": "Food service",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mdempreendedor",
-      "nicho": "Clínicas e saúde",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
