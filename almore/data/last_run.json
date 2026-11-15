@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-14",
+  "data": "2026-11-15",
   "nichos": [
-    "Importação",
     "Estratégias digitais",
     "Autopeças",
     "E-commerce",
@@ -24,21 +23,22 @@
     "Educação",
     "Infoprodutores",
     "Vendas",
-    "Gestão"
+    "Gestão",
+    "Advocacia"
   ],
-  "buscas": 78,
-  "fetches": 14,
+  "buscas": 77,
+  "fetches": 10,
   "anomalias_duckduckgo": 51,
   "provedores": {
-    "duckduckgo": 3,
+    "duckduckgo": 2,
     "bing": 3
   },
   "bloqueios": {
     "duckduckgo": 49,
     "bing_irrelevante": 10
   },
-  "candidatos": 14,
-  "enriquecimentos": 4,
+  "candidatos": 11,
+  "enriquecimentos": 3,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -46,20 +46,13 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "duplicado": 13
+    "duplicado": 9,
+    "sem_contato": 1,
+    "sem_mentoria": 1
   },
-  "aprovados": 1,
-  "novos": 1,
-  "csv_dia": "data/mentores_2026-11-14.csv",
+  "aprovados": 0,
+  "novos": 0,
+  "csv_dia": "",
   "erros": [],
-  "mentores": [
-    {
-      "nome": "ComexFácil",
-      "nicho": "Importação",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    }
-  ]
+  "mentores": []
 }
