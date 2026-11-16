@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-15",
+  "data": "2026-11-16",
   "nichos": [
-    "Estratégias digitais",
     "Autopeças",
     "E-commerce",
     "Prestadores de serviço",
@@ -24,21 +23,22 @@
     "Infoprodutores",
     "Vendas",
     "Gestão",
-    "Advocacia"
+    "Advocacia",
+    "Transportadoras e logística"
   ],
-  "buscas": 77,
-  "fetches": 10,
+  "buscas": 81,
+  "fetches": 22,
   "anomalias_duckduckgo": 51,
   "provedores": {
-    "duckduckgo": 2,
-    "bing": 3
+    "duckduckgo": 6,
+    "bing": 5
   },
   "bloqueios": {
     "duckduckgo": 49,
-    "bing_irrelevante": 10
+    "bing_irrelevante": 8
   },
-  "candidatos": 11,
-  "enriquecimentos": 3,
+  "candidatos": 26,
+  "enriquecimentos": 5,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -46,13 +46,32 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "duplicado": 9,
-    "sem_contato": 1,
+    "instituicao": 1,
+    "duplicado": 13,
+    "sem_contato": 6,
+    "sem_publico": 3,
     "sem_mentoria": 1
   },
-  "aprovados": 0,
-  "novos": 0,
-  "csv_dia": "",
+  "aprovados": 2,
+  "novos": 2,
+  "csv_dia": "data/mentores_2026-11-16.csv",
   "erros": [],
-  "mentores": []
+  "mentores": [
+    {
+      "nome": "Palestras de Sucesso",
+      "nicho": "Autopeças",
+      "instagram_handle": "palestrasdesucesso",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Academy Master Pro",
+      "nicho": "Autopeças",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    }
+  ]
 }
