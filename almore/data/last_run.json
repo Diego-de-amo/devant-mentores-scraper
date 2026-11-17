@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-16",
+  "data": "2026-11-17",
   "nichos": [
-    "Autopeças",
     "E-commerce",
     "Prestadores de serviço",
     "Marketing digital",
@@ -9,36 +8,17 @@
     "Food service",
     "Clínicas e saúde",
     "Estética",
-    "Odontologia",
-    "Imobiliário",
-    "Construção",
-    "Agro",
-    "Indústria",
-    "Franquias",
-    "Moda",
-    "Beleza",
-    "Academias e fitness",
-    "Pet",
-    "Educação",
-    "Infoprodutores",
-    "Vendas",
-    "Gestão",
-    "Advocacia",
-    "Transportadoras e logística"
+    "Odontologia"
   ],
-  "buscas": 81,
-  "fetches": 22,
-  "anomalias_duckduckgo": 51,
+  "buscas": 45,
+  "fetches": 40,
+  "anomalias_duckduckgo": 0,
   "provedores": {
-    "duckduckgo": 6,
-    "bing": 5
+    "duckduckgo": 45
   },
-  "bloqueios": {
-    "duckduckgo": 49,
-    "bing_irrelevante": 8
-  },
-  "candidatos": 26,
-  "enriquecimentos": 5,
+  "bloqueios": {},
+  "candidatos": 131,
+  "enriquecimentos": 12,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -47,27 +27,355 @@
   },
   "descartes": {
     "instituicao": 1,
-    "duplicado": 13,
-    "sem_contato": 6,
-    "sem_publico": 3,
-    "sem_mentoria": 1
+    "duplicado": 51,
+    "sem_contato": 11,
+    "sem_publico": 23,
+    "sem_mentoria": 2
   },
-  "aprovados": 2,
-  "novos": 2,
-  "csv_dia": "data/mentores_2026-11-16.csv",
+  "aprovados": 43,
+  "novos": 43,
+  "csv_dia": "data/mentores_2026-11-17.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "Palestras de Sucesso",
-      "nicho": "Autopeças",
-      "instagram_handle": "palestrasdesucesso",
+      "nome": "Consultoria Empresarial E-commerce",
+      "nicho": "E-commerce",
+      "instagram_handle": "tutoryal.br",
+      "seguidores": "144",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Sebastián Pendino",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "sebapendino",
+      "seguidores": "4786",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria MCS",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Academy Master Pro",
-      "nicho": "Autopeças",
+      "nome": "Consultoria e Mentoria em E-commerce",
+      "nicho": "E-commerce",
+      "instagram_handle": "lojadoecommerce",
+      "seguidores": "4491",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "CEOs de Restaurantes — Mentoria com donos que já fizeram",
+      "nicho": "Food service",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Nexus Mentoring Club I Fabrício Zandoná",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Acompanhamento estratégico — Tom Knauf",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Full Gastronomia",
+      "nicho": "Food service",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Hospitalità",
+      "nicho": "Food service",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "LM Nutrition",
+      "nicho": "Food service",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria 360 Gestão Para Clínicas",
+      "nicho": "Estética",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Executiva",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Michel Rezini",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Sense7",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Andrey Antonio — Mentoria para Empresários",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Bruno Simões",
+      "nicho": "Food service",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "CAIZ",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Clube dos 15 — Mentoria estratégica para donos de restaurante",
+      "nicho": "Food service",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "CÓDIGO TITAN",
+      "nicho": "E-commerce",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Educação Corporativa",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Eloisa Simao",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Gustavo Cruz",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Holos Ascend Mentory",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Instituto Vivarejo",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Layers Marketing",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Médico em Negócios",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria de Varejo",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria executiva para líderes e empresários do varejo",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "OdontoElite",
+      "nicho": "Odontologia",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Seu Varejo Pode Lucrar Mais",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Singular Experts",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Dra. Carla Bianca",
+      "nicho": "Estética",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "HÉLIX — Mentoria estratégica 1:1 para profissionais de estética avançada",
+      "nicho": "Estética",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Instituto Skyn",
+      "nicho": "Estética",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Altus — Transformando Clínicas",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Clínicas de Alta Performance",
+      "nicho": "Odontologia",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Growth Mentoring",
+      "nicho": "Marketing digital",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "LBM",
+      "nicho": "Prestadores de serviço",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Marília Mota",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "NetDente",
+      "nicho": "Odontologia",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Pro Clinic Academy",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Trinômio Retail",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "USCS",
+      "nicho": "Estética",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
