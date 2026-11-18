@@ -1,0 +1,69 @@
+name: Mentores diários
+
+on:
+  schedule:
+    # 10:30 UTC = 07:30 em Brasília. O Brasil não usa horário de verão desde 2019.
+    - cron: "30 10 * * *"
+  workflow_dispatch:
+    inputs:
+      max_novos:
+        description: Máximo de mentores novos nesta execução
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mentores-diarios
+  cancel-in-progress: false
+
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Sessão opcional do Instagram
+        env:
+          IG_USERNAME: ${{ secrets.IG_USERNAME }}
+          IG_SESSION_B64: ${{ secrets.IG_SESSIONFILE }}
+        run: |
+          if [ -n "$IG_USERNAME" ] && [ -n "$IG_SESSION_B64" ]; then
+            mkdir -p "$HOME/.config/instaloader"
+            printf '%s' "$IG_SESSION_B64" | base64 -d > "$HOME/.config/instaloader/session-$IG_USERNAME"
+            chmod 600 "$HOME/.config/instaloader/session-$IG_USERNAME"
+            echo "IG_SESSIONFILE=$HOME/.config/instaloader/session-$IG_USERNAME" >> "$GITHUB_ENV"
+            echo "Sessão opcional carregada."
+          else
+            echo "Sem IG_USERNAME/IG_SESSIONFILE. Instaloader segue anônimo."
+          fi
+
+      - name: Buscar mentores
+        env:
+          IG_USERNAME: ${{ secrets.IG_USERNAME }}
+          MAX_NOVOS: ${{ github.event.inputs.max_novos || '20' }}
+          PYTHONUNBUFFERED: "1"
+        run: python -m scraper --max "${MAX_NOVOS}"
+
+      - name: Publicar CSVs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/mentores_master.csv data/ultimo_run.json data/mentores_*.csv
+          if git diff --cached --quiet; then
+            echo "Nada novo para commitar."
+          else
+            DATA=$(python -c "from datetime import datetime; from zoneinfo import ZoneInfo; print(datetime.now(ZoneInfo('America/Sao_Paulo')).strftime('%Y-%m-%d'))")
+            git commit -m "data: mentores ${DATA}"
+            git push
+          fi
