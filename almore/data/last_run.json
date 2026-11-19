@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-18",
+  "data": "2026-11-19",
   "nichos": [
-    "Prestadores de serviço",
     "Marketing digital",
     "Varejo",
     "Food service",
@@ -24,21 +23,22 @@
     "Advocacia",
     "Transportadoras e logística",
     "Oficinas mecânicas",
-    "Farmácias"
+    "Farmácias",
+    "Supermercados"
   ],
-  "buscas": 92,
-  "fetches": 40,
+  "buscas": 94,
+  "fetches": 34,
   "anomalias_duckduckgo": 51,
   "provedores": {
-    "duckduckgo": 12,
-    "bing": 11
+    "duckduckgo": 6,
+    "bing": 12
   },
   "bloqueios": {
-    "bing_irrelevante": 4,
-    "duckduckgo": 50
+    "duckduckgo": 50,
+    "bing_irrelevante": 7
   },
-  "candidatos": 62,
-  "enriquecimentos": 11,
+  "candidatos": 37,
+  "enriquecimentos": 12,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -47,90 +47,42 @@
   },
   "descartes": {
     "instituicao": 1,
-    "duplicado": 37,
+    "duplicado": 24,
     "sem_contato": 3,
-    "sem_publico": 5,
-    "sem_mentoria": 1
+    "sem_publico": 1,
+    "sem_mentoria": 2
   },
-  "aprovados": 15,
-  "novos": 15,
-  "csv_dia": "data/mentores_2026-11-18.csv",
+  "aprovados": 6,
+  "novos": 6,
+  "csv_dia": "data/mentores_2026-11-19.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "Murilo Parrillo",
+      "nome": "Traffic Masters: mentoria para donos de agências de marketing",
       "nicho": "Marketing digital",
-      "instagram_handle": "murilo.parrillo",
+      "instagram_handle": "lucianolarrossa",
       "seguidores": "",
-      "cidade_uf": "",
+      "cidade_uf": "Pelotas/RS",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "2UP Ascend: Mentoria 1:1 para Dobrar a Agência",
+      "nome": "Guilherme Nagel",
       "nicho": "Marketing digital",
-      "instagram_handle": "",
+      "instagram_handle": "nagel.guilherme",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Fale com a Mentora de Marketing",
+      "nome": "Zimmermann PRO",
       "nicho": "Marketing digital",
-      "instagram_handle": "mentorademarketing",
+      "instagram_handle": "zimmermann.pro",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Sabrina Bull",
-      "nicho": "Marketing digital",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Bruno Araújo",
-      "nicho": "Prestadores de serviço",
-      "instagram_handle": "instabrunoaraujo",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Bell Nacif",
-      "nicho": "Varejo",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Marcelo Uliana",
-      "nicho": "Food service",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Loja Lucrativa",
-      "nicho": "Varejo",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Transforme Seu Negócio",
-      "nicho": "Prestadores de serviço",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Agência Piper",
+      "nome": "Rodrigo Mendonça",
       "nicho": "Marketing digital",
       "instagram_handle": "",
       "seguidores": "",
@@ -138,40 +90,16 @@
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentora de Marketing",
+      "nome": "Mentoria De Marketing Digital Para Agencias: Guia Completo 2026",
       "nicho": "Marketing digital",
-      "instagram_handle": "",
+      "instagram_handle": "consig.investmkt",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentorias de Marketing",
+      "nome": "Smartmentor",
       "nicho": "Marketing digital",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Treinamentos e mentorias de marketing",
-      "nicho": "Marketing digital",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Flourish",
-      "nicho": "Varejo",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "MENTORIA PRESENCIAL E ONLINE",
-      "nicho": "Varejo",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
