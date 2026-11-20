@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-19",
+  "data": "2026-11-20",
   "nichos": [
-    "Marketing digital",
     "Varejo",
     "Food service",
     "Clínicas e saúde",
@@ -9,36 +8,20 @@
     "Odontologia",
     "Imobiliário",
     "Construção",
-    "Agro",
-    "Indústria",
-    "Franquias",
-    "Moda",
-    "Beleza",
-    "Academias e fitness",
-    "Pet",
-    "Educação",
-    "Infoprodutores",
-    "Vendas",
-    "Gestão",
-    "Advocacia",
-    "Transportadoras e logística",
-    "Oficinas mecânicas",
-    "Farmácias",
-    "Supermercados"
+    "Agro"
   ],
-  "buscas": 94,
-  "fetches": 34,
-  "anomalias_duckduckgo": 51,
+  "buscas": 45,
+  "fetches": 40,
+  "anomalias_duckduckgo": 25,
   "provedores": {
-    "duckduckgo": 6,
-    "bing": 12
+    "duckduckgo": 18
   },
   "bloqueios": {
-    "duckduckgo": 50,
-    "bing_irrelevante": 7
+    "duckduckgo": 23,
+    "bing_irrelevante": 2
   },
-  "candidatos": 37,
-  "enriquecimentos": 12,
+  "candidatos": 90,
+  "enriquecimentos": 11,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -46,60 +29,140 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "instituicao": 1,
-    "duplicado": 24,
-    "sem_contato": 3,
-    "sem_publico": 1,
-    "sem_mentoria": 2
+    "duplicado": 47,
+    "sem_contato": 12,
+    "idioma": 1,
+    "sem_publico": 13,
+    "sem_mentoria": 1
   },
-  "aprovados": 6,
-  "novos": 6,
-  "csv_dia": "data/mentores_2026-11-19.csv",
+  "aprovados": 16,
+  "novos": 16,
+  "csv_dia": "data/mentores_2026-11-20.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "Traffic Masters: mentoria para donos de agências de marketing",
-      "nicho": "Marketing digital",
-      "instagram_handle": "lucianolarrossa",
-      "seguidores": "",
-      "cidade_uf": "Pelotas/RS",
+      "nome": "MedMBA",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "mbamedicina",
+      "seguidores": "17000",
+      "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Guilherme Nagel",
-      "nicho": "Marketing digital",
-      "instagram_handle": "nagel.guilherme",
+      "nome": "Angela Zorzo l mentoria varejo de moda",
+      "nicho": "Varejo",
+      "instagram_handle": "angelazorzo",
+      "seguidores": "18000",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "VAREJO ATIVO",
+      "nicho": "Varejo",
+      "instagram_handle": "thiago.varejo",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Zimmermann PRO",
-      "nicho": "Marketing digital",
-      "instagram_handle": "zimmermann.pro",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Rodrigo Mendonça",
-      "nicho": "Marketing digital",
+      "nome": "Andreza Leite",
+      "nicho": "Varejo",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Mentoria De Marketing Digital Para Agencias: Guia Completo 2026",
-      "nicho": "Marketing digital",
-      "instagram_handle": "consig.investmkt",
+      "nome": "Instituto EVEM",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Smartmentor",
-      "nicho": "Marketing digital",
+      "nome": "Mentor de Gestores",
+      "nicho": "Varejo",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Criativa para cozinheiros e restaurantes",
+      "nicho": "Food service",
+      "instagram_handle": "chefrubens",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Empresária Eliana Yohann lança mentoria que promete transformar ...",
+      "nicho": "Estética",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Ismênia Sales — Clínicas Odontológicas Lucrativas",
+      "nicho": "Odontologia",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Amélia Pinheiro",
+      "nicho": "Odontologia",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Balance Mentoria",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Henrique Rodrigues Mentor",
+      "nicho": "Food service",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Ana Rosa",
+      "nicho": "Estética",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Crescimento Real",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "MentorIA Odonto",
+      "nicho": "Odontologia",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Sirlândia Moreira",
+      "nicho": "Estética",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
