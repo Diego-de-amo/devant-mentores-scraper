@@ -1,27 +1,44 @@
 {
-  "data": "2026-11-20",
+  "data": "2026-11-21",
   "nichos": [
-    "Varejo",
     "Food service",
     "Clínicas e saúde",
     "Estética",
     "Odontologia",
     "Imobiliário",
     "Construção",
-    "Agro"
+    "Agro",
+    "Indústria",
+    "Franquias",
+    "Moda",
+    "Beleza",
+    "Academias e fitness",
+    "Pet",
+    "Educação",
+    "Infoprodutores",
+    "Vendas",
+    "Gestão",
+    "Advocacia",
+    "Transportadoras e logística",
+    "Oficinas mecânicas",
+    "Farmácias",
+    "Supermercados",
+    "Tecnologia e SaaS",
+    "Delivery"
   ],
-  "buscas": 45,
-  "fetches": 40,
-  "anomalias_duckduckgo": 25,
+  "buscas": 77,
+  "fetches": 14,
+  "anomalias_duckduckgo": 50,
   "provedores": {
-    "duckduckgo": 18
+    "duckduckgo": 3,
+    "bing": 4
   },
   "bloqueios": {
-    "duckduckgo": 23,
-    "bing_irrelevante": 2
+    "duckduckgo": 48,
+    "bing_irrelevante": 9
   },
-  "candidatos": 90,
-  "enriquecimentos": 11,
+  "candidatos": 14,
+  "enriquecimentos": 3,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -29,140 +46,19 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "duplicado": 47,
-    "sem_contato": 12,
-    "idioma": 1,
-    "sem_publico": 13,
-    "sem_mentoria": 1
+    "duplicado": 9,
+    "instituicao": 1,
+    "sem_contato": 2,
+    "sem_publico": 1
   },
-  "aprovados": 16,
-  "novos": 16,
-  "csv_dia": "data/mentores_2026-11-20.csv",
+  "aprovados": 1,
+  "novos": 1,
+  "csv_dia": "data/mentores_2026-11-21.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "MedMBA",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "mbamedicina",
-      "seguidores": "17000",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Angela Zorzo l mentoria varejo de moda",
-      "nicho": "Varejo",
-      "instagram_handle": "angelazorzo",
-      "seguidores": "18000",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "VAREJO ATIVO",
-      "nicho": "Varejo",
-      "instagram_handle": "thiago.varejo",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Andreza Leite",
-      "nicho": "Varejo",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Instituto EVEM",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentor de Gestores",
-      "nicho": "Varejo",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Criativa para cozinheiros e restaurantes",
+      "nome": "Rodrigo Haertel — Mentor de Restaurantes e Metodologista do …",
       "nicho": "Food service",
-      "instagram_handle": "chefrubens",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Empresária Eliana Yohann lança mentoria que promete transformar ...",
-      "nicho": "Estética",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Ismênia Sales — Clínicas Odontológicas Lucrativas",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Amélia Pinheiro",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Balance Mentoria",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Henrique Rodrigues Mentor",
-      "nicho": "Food service",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Ana Rosa",
-      "nicho": "Estética",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Crescimento Real",
-      "nicho": "Clínicas e saúde",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "MentorIA Odonto",
-      "nicho": "Odontologia",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Sirlândia Moreira",
-      "nicho": "Estética",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
