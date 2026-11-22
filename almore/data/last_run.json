@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-21",
+  "data": "2026-11-22",
   "nichos": [
-    "Food service",
     "Clínicas e saúde",
     "Estética",
     "Odontologia",
@@ -9,36 +8,20 @@
     "Construção",
     "Agro",
     "Indústria",
-    "Franquias",
-    "Moda",
-    "Beleza",
-    "Academias e fitness",
-    "Pet",
-    "Educação",
-    "Infoprodutores",
-    "Vendas",
-    "Gestão",
-    "Advocacia",
-    "Transportadoras e logística",
-    "Oficinas mecânicas",
-    "Farmácias",
-    "Supermercados",
-    "Tecnologia e SaaS",
-    "Delivery"
+    "Franquias"
   ],
-  "buscas": 77,
-  "fetches": 14,
-  "anomalias_duckduckgo": 50,
+  "buscas": 51,
+  "fetches": 40,
+  "anomalias_duckduckgo": 31,
   "provedores": {
-    "duckduckgo": 3,
-    "bing": 4
+    "duckduckgo": 18
   },
   "bloqueios": {
-    "duckduckgo": 48,
-    "bing_irrelevante": 9
+    "duckduckgo": 29,
+    "bing_irrelevante": 2
   },
-  "candidatos": 14,
-  "enriquecimentos": 3,
+  "candidatos": 92,
+  "enriquecimentos": 16,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -46,19 +29,150 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "duplicado": 9,
-    "instituicao": 1,
-    "sem_contato": 2,
-    "sem_publico": 1
+    "duplicado": 42,
+    "sem_contato": 10,
+    "sem_publico": 18,
+    "seguidores": 1,
+    "idioma": 1,
+    "artigo": 1,
+    "sem_mentoria": 2
   },
-  "aprovados": 1,
-  "novos": 1,
-  "csv_dia": "data/mentores_2026-11-21.csv",
+  "aprovados": 17,
+  "novos": 17,
+  "csv_dia": "data/mentores_2026-11-22.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "Rodrigo Haertel — Mentor de Restaurantes e Metodologista do …",
-      "nicho": "Food service",
+      "nome": "Danielle Morelli",
+      "nicho": "Odontologia",
+      "instagram_handle": "danisamorelli",
+      "seguidores": "",
+      "cidade_uf": "São Paulo/SP",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria de alavancagem para Profissionais da Área de Beleza ...",
+      "nicho": "Construção",
+      "instagram_handle": "vandaregina_mentora",
+      "seguidores": "3263",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Felipe Pimenta",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "felipepimentaoficial",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Sticker mentoria",
+      "nicho": "Estética",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "VEG Academy",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "ATrinca Real Estate",
+      "nicho": "Imobiliário",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Rodrigo Noronha Mentor",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "rodrigonoronhamentor",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Escala",
+      "nicho": "Clínicas e saúde",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "OdontoMakers — Mentoria para Dentistas",
+      "nicho": "Odontologia",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Em Gestão Da Construção Civil E Escritórios De Projetos",
+      "nicho": "Construção",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Top Brokers",
+      "nicho": "Imobiliário",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Aguiar e Pimentel",
+      "nicho": "Imobiliário",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Cimatti Cursos",
+      "nicho": "Construção",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Construtor Pró",
+      "nicho": "Construção",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "GB Experience",
+      "nicho": "Odontologia",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "LigaLearning",
+      "nicho": "Construção",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentor imobiliário: Guia para escolher seu expert",
+      "nicho": "Imobiliário",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
