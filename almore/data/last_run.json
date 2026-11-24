@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-23",
+  "data": "2026-11-24",
   "nichos": [
-    "Estética",
     "Odontologia",
     "Imobiliário",
     "Construção",
@@ -24,21 +23,22 @@
     "Tecnologia e SaaS",
     "Delivery",
     "Mercado Livre e Shopee",
-    "Importação"
+    "Importação",
+    "Estratégias digitais"
   ],
-  "buscas": 84,
-  "fetches": 23,
+  "buscas": 90,
+  "fetches": 28,
   "anomalias_duckduckgo": 50,
   "provedores": {
     "duckduckgo": 6,
-    "bing": 7
+    "bing": 9
   },
   "bloqueios": {
     "duckduckgo": 48,
-    "bing_irrelevante": 8
+    "bing_irrelevante": 9
   },
-  "candidatos": 25,
-  "enriquecimentos": 7,
+  "candidatos": 32,
+  "enriquecimentos": 10,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -46,26 +46,59 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "duplicado": 19,
-    "sem_contato": 2,
-    "sem_publico": 2
+    "duplicado": 17,
+    "sem_contato": 3,
+    "sem_publico": 5,
+    "sem_mentoria": 1
   },
-  "aprovados": 2,
-  "novos": 2,
-  "csv_dia": "data/mentores_2026-11-23.csv",
+  "aprovados": 6,
+  "novos": 6,
+  "csv_dia": "data/mentores_2026-11-24.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "Suzana Zatorre",
-      "nicho": "Estética",
-      "instagram_handle": "suzanazatorreoficial",
-      "seguidores": "58000",
+      "nome": "Sandra Aleixo",
+      "nicho": "Imobiliário",
+      "instagram_handle": "sandraaleixo12",
+      "seguidores": "669",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "SouEla Academy — Mentoria para clínicas odontológicas e médicas",
+      "nome": "Keyla Kin",
+      "nicho": "Imobiliário",
+      "instagram_handle": "keyla_kin",
+      "seguidores": "7721",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "CEO Club Mentoria",
       "nicho": "Odontologia",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "DLC Estratégias Digitais",
+      "nicho": "Imobiliário",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Facilotes",
+      "nicho": "Imobiliário",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Rodrigo Calfa",
+      "nicho": "Imobiliário",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
