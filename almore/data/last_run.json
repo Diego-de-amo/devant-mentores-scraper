@@ -1,7 +1,6 @@
 {
-  "data": "2026-11-24",
+  "data": "2026-11-25",
   "nichos": [
-    "Odontologia",
     "Imobiliário",
     "Construção",
     "Agro",
@@ -9,36 +8,20 @@
     "Franquias",
     "Moda",
     "Beleza",
-    "Academias e fitness",
-    "Pet",
-    "Educação",
-    "Infoprodutores",
-    "Vendas",
-    "Gestão",
-    "Advocacia",
-    "Transportadoras e logística",
-    "Oficinas mecânicas",
-    "Farmácias",
-    "Supermercados",
-    "Tecnologia e SaaS",
-    "Delivery",
-    "Mercado Livre e Shopee",
-    "Importação",
-    "Estratégias digitais"
+    "Academias e fitness"
   ],
-  "buscas": 90,
-  "fetches": 28,
-  "anomalias_duckduckgo": 50,
+  "buscas": 48,
+  "fetches": 40,
+  "anomalias_duckduckgo": 20,
   "provedores": {
-    "duckduckgo": 6,
-    "bing": 9
+    "duckduckgo": 27
   },
   "bloqueios": {
-    "duckduckgo": 48,
-    "bing_irrelevante": 9
+    "duckduckgo": 19,
+    "bing_irrelevante": 1
   },
-  "candidatos": 32,
-  "enriquecimentos": 10,
+  "candidatos": 130,
+  "enriquecimentos": 13,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -46,42 +29,301 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
-    "duplicado": 17,
-    "sem_contato": 3,
-    "sem_publico": 5,
+    "duplicado": 31,
+    "idioma": 1,
+    "sem_contato": 18,
+    "instituicao": 1,
+    "sem_publico": 22,
+    "artigo": 1,
     "sem_mentoria": 1
   },
-  "aprovados": 6,
-  "novos": 6,
-  "csv_dia": "data/mentores_2026-11-24.csv",
+  "aprovados": 55,
+  "novos": 50,
+  "csv_dia": "data/mentores_2026-11-25.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "Sandra Aleixo",
+      "nome": "Mentor Alexandre Oliveira",
       "nicho": "Imobiliário",
-      "instagram_handle": "sandraaleixo12",
-      "seguidores": "669",
+      "instagram_handle": "alexandreoliveira.oficial",
+      "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Keyla Kin",
+      "nome": "Expert",
       "nicho": "Imobiliário",
-      "instagram_handle": "keyla_kin",
-      "seguidores": "7721",
+      "instagram_handle": "expert_mentoria_imobiliaria",
+      "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "CEO Club Mentoria",
-      "nicho": "Odontologia",
+      "nome": "Consultoria Estratégica Gratuita",
+      "nicho": "Beleza",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "DLC Estratégias Digitais",
+      "nome": "Empreendedor Pleno",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Estratégias de Mentoria para Sucesso no Setor Industrial",
+      "nicho": "Indústria",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Henrique Mol",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria A.G.A.P.E.® — Diagnóstico estratégico para negócios de beleza",
+      "nicho": "Beleza",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Moda de Valor by Luciana Martinez",
+      "nicho": "Moda",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Saulo Abrahão",
+      "nicho": "Beleza",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Virtual para Moda: Potencializando Negócios de Moda",
+      "nicho": "Moda",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Robinson Freitas",
+      "nicho": "Indústria",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "VA: Empresários (Donos de Construtoras)",
+      "nicho": "Construção",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria empresarial para donos e líderes",
+      "nicho": "Indústria",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "São Paulo/SP",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Aumente o faturamento e organize a gestão",
+      "nicho": "Beleza",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Beleza como Negócio",
+      "nicho": "Beleza",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Fature Mais de R$10 Mil",
+      "nicho": "Beleza",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Franchise Mind",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Franquias Brasil",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Fred Vanitelli",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Guto Caetano",
+      "nicho": "Indústria",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Instituto do Franqueado",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Laysa Strithorst",
+      "nicho": "Beleza",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Line Ateliê Criativo",
+      "nicho": "Moda",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Maria Luiza Brufatto",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria agrícola",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria executiva para empresários e líderes B2B",
+      "nicho": "Construção",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria no franchising funciona? Empresário conta como trabalho ...",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Serviço",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Valoragro",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Viva Positivamente",
+      "nicho": "Indústria",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "WayBiz Franchising",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Executiva de Liderança Industrial",
+      "nicho": "Indústria",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "Curitiba/PR",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Acompanhamento de Projeto e Construção",
+      "nicho": "Construção",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "AgroMENTHOR",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "ALAGRO",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Márcio Mesquita",
       "nicho": "Imobiliário",
       "instagram_handle": "",
       "seguidores": "",
@@ -89,16 +331,112 @@
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Facilotes",
-      "nicho": "Imobiliário",
+      "nome": "Mentoria Black",
+      "nicho": "Agro",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "Rodrigo Calfa",
-      "nicho": "Imobiliário",
+      "nome": "Mentoria de Franquias",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Especializada em Franquias",
+      "nicho": "Franquias",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria I by Fashion Business",
+      "nicho": "Moda",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Mentoria Soberana — Zynangella Miranda",
+      "nicho": "Beleza",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Miguel Cavalcanti",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Winnex Solutions",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Fernando",
+      "nicho": "Moda",
+      "instagram_handle": "_fernandodsouza",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Agro Academy",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Agroeduca — Educação corporativa para o agronegócio",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "AgroSinal — Mentoria e Consultoria para AgTechs do Agronegócio",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Aprenda a Ser Corretor Rural — Mentorias do Carvalho",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "Leandra Leite",
+      "nicho": "Agro",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "PLATAFORMA MENTOR CONSTRUÇÃO AJUDA A ELEVAR EM ATÉ 10x A PRODUTIVIDADE ...",
+      "nicho": "Construção",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
