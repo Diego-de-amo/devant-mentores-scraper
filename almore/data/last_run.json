@@ -1,27 +1,27 @@
 {
-  "data": "2026-11-26",
+  "data": "2026-11-27",
   "nichos": [
-    "Construção",
     "Agro",
     "Indústria",
     "Franquias",
     "Moda",
     "Beleza",
     "Academias e fitness",
-    "Pet"
+    "Pet",
+    "Educação"
   ],
-  "buscas": 49,
+  "buscas": 42,
   "fetches": 40,
-  "anomalias_duckduckgo": 21,
+  "anomalias_duckduckgo": 19,
   "provedores": {
-    "duckduckgo": 27
+    "duckduckgo": 21,
+    "bing": 2
   },
   "bloqueios": {
-    "duckduckgo": 20,
-    "bing_irrelevante": 1
+    "duckduckgo": 17
   },
-  "candidatos": 123,
-  "enriquecimentos": 14,
+  "candidatos": 107,
+  "enriquecimentos": 7,
   "instagram": {
     "tentativas": 1,
     "sucessos": 0,
@@ -29,212 +29,37 @@
     "motivo": "LoginRequiredException"
   },
   "descartes": {
+    "duplicado": 70,
+    "sem_publico": 17,
+    "sem_contato": 14,
     "instituicao": 1,
-    "duplicado": 60,
-    "sem_contato": 17,
-    "sem_publico": 18,
-    "sem_mentoria": 2
+    "artigo": 1,
+    "sem_mentoria": 1
   },
-  "aprovados": 25,
-  "novos": 25,
-  "csv_dia": "data/mentores_2026-11-26.csv",
+  "aprovados": 3,
+  "novos": 3,
+  "csv_dia": "data/mentores_2026-11-27.csv",
   "erros": [],
   "mentores": [
     {
-      "nome": "André Minucci",
-      "nicho": "Construção",
-      "instagram_handle": "andreminucci",
-      "seguidores": "17000",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria em Viabilidade Financeira de Empreendimentos",
-      "nicho": "Construção",
-      "instagram_handle": "ciincoeducacao",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Inscrições Abertas",
-      "nicho": "Beleza",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Fluxo",
-      "nicho": "Academias e fitness",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Next Level",
-      "nicho": "Construção",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria Viver de Academia com Fábio Padilha",
-      "nicho": "Academias e fitness",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria em Gestão Rural para Produtores",
+      "nome": "Mentoria Autoridade Agro",
       "nicho": "Agro",
-      "instagram_handle": "agroimpar.consultoria",
-      "seguidores": "",
-      "cidade_uf": "Maracaju/MS",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Academias Lucrativas",
-      "nicho": "Academias e fitness",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
       "menciona_contador_parceiro": "no"
     },
     {
-      "nome": "aswfashion.com.br",
+      "nome": "Mentoria Empresarial e Corporativa para Equipes",
+      "nicho": "Indústria",
+      "instagram_handle": "",
+      "seguidores": "",
+      "cidade_uf": "",
+      "menciona_contador_parceiro": "no"
+    },
+    {
+      "nome": "MENIX SOLUCOES EMPRESARIAIS",
       "nicho": "Moda",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Beleza Pro Academy — De funcionária a empresária do próprio negócio",
-      "nicho": "Beleza",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Bruno Muniz",
-      "nicho": "Academias e fitness",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Capital Upgrade",
-      "nicho": "Academias e fitness",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Do Zero ao Sucesso",
-      "nicho": "Academias e fitness",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Fábio Saba",
-      "nicho": "Academias e fitness",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Fernando Lopa",
-      "nicho": "Agro",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Lucas Costa",
-      "nicho": "Beleza",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Luis César Bigonha — Mentoria & Estratégia para negócios de beleza",
-      "nicho": "Beleza",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Mentoria de gestão para negócios de beleza",
-      "nicho": "Beleza",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Programas de Mentoria",
-      "nicho": "Agro",
-      "instagram_handle": "rehagro_agronegocio",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Udemy",
-      "nicho": "Agro",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Academia de Verdade",
-      "nicho": "Academias e fitness",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Lideressência -",
-      "nicho": "Academias e fitness",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "NISUS",
-      "nicho": "Agro",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "Tallita Lisboa",
-      "nicho": "Moda",
-      "instagram_handle": "",
-      "seguidores": "",
-      "cidade_uf": "",
-      "menciona_contador_parceiro": "no"
-    },
-    {
-      "nome": "VouProAGRO® Programa de Formação para o Profissional do Agronegócio",
-      "nicho": "Agro",
       "instagram_handle": "",
       "seguidores": "",
       "cidade_uf": "",
